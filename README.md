@@ -67,7 +67,7 @@ make
 
 # Example
 
-<img width="829" height="286" alt="image" src="https://github.com/user-attachments/assets/b3f9e3e5-aa66-477e-b3ef-206f0ce109a1" />
+<img width="807" height="283" alt="image" src="https://github.com/user-attachments/assets/51aa40b5-6934-4748-ae5c-5d44fc683319" />
 
 
 
