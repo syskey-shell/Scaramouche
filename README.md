@@ -6,9 +6,12 @@
 - Can Read from a file and check them all.
   
 # Requirements
-- Platform:  •Linux • macOS 
--(Windows? Use WSL. We don't do Windows here.)
--Tor Running locally with SOCKS5 proxy on 127.0.0.1:9050(default)
+- Platform: •Linux  •macOS 
+- Tor Running locally with SOCKS5 proxy on 127.0.0.1:9050(default)
+
+# why it doesn't support windows?
+- well because i built this with posix sockets (socket(), connect()),unix specific timing (clock_gettime()), and standard C libraries that either don't exist on Windows or behave completely differently.
+- Windows uses Winsock with different initialization, has its own timing apis.
 
 # Setting Up Tor
 
