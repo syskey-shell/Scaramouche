@@ -1,5 +1,7 @@
 # Scaramouche
- A simple tool that checks if Tor onion sites are up or down.
+ A tool that checks if Tor onion sites are up or down.
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/591e3ccf-7ca4-4bc3-afbe-50c492a8e4e0" />
+
 # About Scaramouche
 - It's a command line tool that checks if .onion addresses are reachable through your local Tor proxy.
 - Flexible HTTP/HTTPS, custom ports, timeouts.
